@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/*======Page Index======*/
+/*一、全局属性*/
+body, p, div, span, table, a, h1, h2, h3, li {
+  font-size: 100%;
+  font-family: 微软雅黑, Consolas, serif; }
+
+.container {
+  width: 1200px !important;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto; }
+
+/*二、index首页属性*/
+/*1. 导航条*/
+
+/*# sourceMappingURL=main.css.map */
